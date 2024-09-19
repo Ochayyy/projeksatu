@@ -1,0 +1,11 @@
+/* Mengatur jarak antar section */
+section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+/* Mengatur gambar di bagian jurusan */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
